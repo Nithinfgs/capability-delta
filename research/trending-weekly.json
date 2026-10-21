@@ -1,0 +1,66 @@
+[
+  {
+    "repository": "morluto/rea",
+    "text": "Star morluto / rea Reverse engineer anything with agents, from app behavior down to native binaries. TypeScript 355,906 89,382 Built by 157,631 stars this week"
+  },
+  {
+    "repository": "anthropics/claude-plugins-official",
+    "text": "Star anthropics / claude-plugins-official Official, Anthropic-managed directory of high quality Claude Code Plugins. Python 43,576 4,599 Built by 5,650 stars this week"
+  },
+  {
+    "repository": "K-Dense-AI/scientific-agent-skills",
+    "text": "Star K-Dense-AI / scientific-agent-skills Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard. Python 53,538 4,728 Built by 4,549 stars this week"
+  },
+  {
+    "repository": "ruvnet/ruflo",
+    "text": "Star ruvnet / ruflo \ud83c\udf0a The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated TypeScript 78,148 9,188 Built by 3,143 stars this week"
+  },
+  {
+    "repository": "android/skills",
+    "text": "Star android / skills Kotlin 9,130 589 Built by 1,255 stars this week"
+  },
+  {
+    "repository": "NationalSecurityAgency/ghidra",
+    "text": "Star NationalSecurityAgency / ghidra Ghidra is a software reverse engineering (SRE) framework Java 92,528 10,362 Built by 6,184 stars this week"
+  },
+  {
+    "repository": "debpalash/VoiceStudio",
+    "text": "Sponsor Star debpalash / VoiceStudio VoiceStudio is the open-source, fully-local ElevenLabs alternative \u2014 voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages. Python 80,038 8,813 Built by 17,057 stars this week"
+  },
+  {
+    "repository": "mksglu/context-mode",
+    "text": "Sponsor Star mksglu / context-mode Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks. TypeScript 31,607 2,178 Built by 3,556 stars this week"
+  },
+  {
+    "repository": "heygen-com/hyperframes",
+    "text": "Star heygen-com / hyperframes Write HTML. Render video. Built for agents. TypeScript 69,048 6,254 Built by 5,994 stars this week"
+  },
+  {
+    "repository": "cursor/plugins",
+    "text": "Star cursor / plugins Cursor plugin specification and official plugins TypeScript 13,362 1,327 Built by 2,040 stars this week"
+  },
+  {
+    "repository": "HKUDS/CLI-Anything",
+    "text": "Star HKUDS / CLI-Anything \"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/ Python 55,861 5,042 Built by 3,587 stars this week"
+  },
+  {
+    "repository": "akitaonrails/ai-memory",
+    "text": "Star akitaonrails / ai-memory Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors Rust 12,175 863 Built by 2,640 stars this week"
+  },
+  {
+    "repository": "anomalyco/opencode",
+    "text": "Sponsor Star anomalyco / opencode The open source coding agent. TypeScript 219,570 29,291 Built by 5,792 stars this week"
+  },
+  {
+    "repository": "wshobson/agents",
+    "text": "Sponsor Star wshobson / agents Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi Python 41,437 4,400 Built by 665 stars this week"
+  },
+  {
+    "repository": "earthtojake/text-to-cad",
+    "text": "Star earthtojake / text-to-cad Give your agent CAD superpowers. Python 22,216 2,174 Built by 2,069 stars this week"
+  },
+  {
+    "repository": "stablyai/orca",
+    "text": "Star stablyai / orca Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime. TypeScript 100,921 6,381 Built by 8,173 stars this week"
+  }
+]

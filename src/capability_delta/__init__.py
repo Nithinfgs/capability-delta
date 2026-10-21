@@ -1,0 +1,1 @@
+"""Offline MCP contract comparison."""

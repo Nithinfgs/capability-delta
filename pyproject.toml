@@ -1,0 +1,21 @@
+[build-system]
+requires = ["hatchling>=1.26,<2"]
+build-backend = "hatchling.build"
+[project]
+name = "capability-delta"
+version = "0.1.0"
+description = "Offline MCP contract diffs with evidence from saved input and output fixtures"
+readme = "README.md"
+requires-python = ">=3.11"
+license = "MIT"
+dependencies = ["jsonschema>=4.23,<5"]
+[project.optional-dependencies]
+dev = ["pytest>=8,<10", "ruff>=0.11,<1", "mypy>=1.15,<2", "types-jsonschema", "build", "pip-audit"]
+[project.scripts]
+capability-delta = "capability_delta.cli:main"
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+[tool.mypy]
+strict = true
+[tool.ruff]
+line-length = 100

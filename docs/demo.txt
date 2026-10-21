@@ -1,0 +1,10 @@
+Capability Delta: regression
+1 changed tools; 2 fixtures
+- changed: "find_notes"
+  - changed "/inputSchema/required"
+  - changed "/outputSchema/properties/status/enum"
+- fixture "search-without-limit": regression
+  - "/": required
+- fixture "archived-note": regression
+  - "/status": enum
+Passing fixtures are examples, not proof of full compatibility.

@@ -1,0 +1,82 @@
+[
+  {
+    "repository": "paperclipai/paperclip",
+    "text": "Star paperclipai / paperclip The open-source app everyone uses to manage agents at work TypeScript 105,580 17,581 Built by 24,372 stars this month"
+  },
+  {
+    "repository": "debpalash/VoiceStudio",
+    "text": "Sponsor Star debpalash / VoiceStudio VoiceStudio is the open-source, fully-local ElevenLabs alternative \u2014 voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages. Python 80,038 8,813 Built by 45,470 stars this month"
+  },
+  {
+    "repository": "vectorize-io/hindsight",
+    "text": "Star vectorize-io / hindsight Hindsight: Agent Memory That Learns Python 52,308 6,197 Built by 28,261 stars this month"
+  },
+  {
+    "repository": "heygen-com/hyperframes",
+    "text": "Star heygen-com / hyperframes Write HTML. Render video. Built for agents. TypeScript 69,048 6,254 Built by 16,644 stars this month"
+  },
+  {
+    "repository": "NVIDIA/OpenShell",
+    "text": "Star NVIDIA / OpenShell OpenShell is the safe, private runtime for autonomous AI agents. Rust 16,968 1,804 Built by 8,173 stars this month"
+  },
+  {
+    "repository": "mksglu/context-mode",
+    "text": "Sponsor Star mksglu / context-mode Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks. TypeScript 31,607 2,178 Built by 7,699 stars this month"
+  },
+  {
+    "repository": "cloudflare/security-audit-skill",
+    "text": "Star cloudflare / security-audit-skill A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings JavaScript 35,492 2,231 Built by 15,824 stars this month"
+  },
+  {
+    "repository": "NationalSecurityAgency/ghidra",
+    "text": "Star NationalSecurityAgency / ghidra Ghidra is a software reverse engineering (SRE) framework Java 92,528 10,362 Built by 13,031 stars this month"
+  },
+  {
+    "repository": "tashfeenahmed/freellmapi",
+    "text": "Star tashfeenahmed / freellmapi 7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only. TypeScript 38,824 5,236 Built by 10,683 stars this month"
+  },
+  {
+    "repository": "anthropics/knowledge-work-plugins",
+    "text": "Star anthropics / knowledge-work-plugins Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork Python 31,120 3,490 Built by 5,496 stars this month"
+  },
+  {
+    "repository": "anthropics/claude-plugins-official",
+    "text": "Star anthropics / claude-plugins-official Official, Anthropic-managed directory of high quality Claude Code Plugins. Python 43,576 4,599 Built by 6,997 stars this month"
+  },
+  {
+    "repository": "cursor/plugins",
+    "text": "Star cursor / plugins Cursor plugin specification and official plugins TypeScript 13,362 1,327 Built by 5,033 stars this month"
+  },
+  {
+    "repository": "anthropics/financial-services",
+    "text": "Star anthropics / financial-services Python 40,623 5,670 Built by 5,457 stars this month"
+  },
+  {
+    "repository": "rohitg00/ai-engineering-from-scratch",
+    "text": "Sponsor Star rohitg00 / ai-engineering-from-scratch Learn AI Engineering! Learn it. Build it. Ship it for others. Python 72,050 12,689 Built by 16,986 stars this month"
+  },
+  {
+    "repository": "affaan-m/ECC",
+    "text": "Sponsor Star affaan-m / ECC The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. JavaScript 285,419 42,326 Built by 22,836 stars this month"
+  },
+  {
+    "repository": "earthtojake/text-to-cad",
+    "text": "Star earthtojake / text-to-cad Give your agent CAD superpowers. Python 22,216 2,174 Built by 5,836 stars this month"
+  },
+  {
+    "repository": "TencentCloud/Octop",
+    "text": "Star TencentCloud / Octop A smarter, self-hosted AI assistant \u2014 multi-user, multi-agent. Python 10,604 1,341 Built by 6,143 stars this month"
+  },
+  {
+    "repository": "pbakaus/impeccable",
+    "text": "Star pbakaus / impeccable The design language that makes your AI harness better at design. Rust 84,319 5,047 Built by 14,636 stars this month"
+  },
+  {
+    "repository": "pingdotgg/t3code",
+    "text": "Star pingdotgg / t3code TypeScript 29,092 7,805 Built by 5,793 stars this month"
+  },
+  {
+    "repository": "HKUDS/CLI-Anything",
+    "text": "Star HKUDS / CLI-Anything \"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/ Python 55,861 5,042 Built by 6,135 stars this month"
+  }
+]
